@@ -13,7 +13,7 @@
 
 | № | Директория | Дополнительные задания |
 |---|------------|------------------------|
-| 1 | `Lab-1` | `Lab-1-Additional` |
+| 1 | `Lab-1` | `Lab-1-Additional(B/W)` |
 | 2 | `Lab-2` | `Lab-2-Additional` |
 | 3 | `Lab-3` | `Lab-3-Additional` |
 | 4 | `Lab-4` | `Lab-4-Additional` |
