@@ -1,5 +1,7 @@
 #include <iostream>
+#include <windows.h>
 int main() {
+    SetConsoleOutputCP(CP_UTF8);
     int n;
     std::cout << "Введите число N" << std::endl;
     std::cin >> n;
